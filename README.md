@@ -19,4 +19,5 @@ zig build
 ./zig-out/bin/cactus false
 ```
 
-A learning project for Zig fundamentals.
+A learning project for Zig fundamentals. This project will NOT continue to be developed.
+
