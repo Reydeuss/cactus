@@ -9,7 +9,6 @@ A minimal coreutils clone written in Zig, implementing:
 ## Building
 ```bash
 zig build
-./zig-out/bin/cactus <command>
 ```
 
 ## Usage
